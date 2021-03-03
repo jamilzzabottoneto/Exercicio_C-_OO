@@ -1,0 +1,13 @@
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\bin\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.exe
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\bin\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.deps.json
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\bin\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.runtimeconfig.json
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\bin\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.runtimeconfig.dev.json
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\bin\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.dll
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\bin\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.pdb
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.csprojAssemblyReference.cache
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.AssemblyInfoInputs.cache
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.AssemblyInfo.cs
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.csproj.CoreCompileInputs.cache
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.dll
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.pdb
+D:\Workspace\Curso C# Completo 2020\C# .NET Projetos\ExercicioPropostoEnumcomposicao\ExercicioPropostoEnumcomposicao\obj\Debug\netcoreapp3.1\ExercicioPropostoEnumcomposicao.genruntimeconfig.cache

@@ -42,5 +42,20 @@ namespace ExercicioPropostoEnumcomposicao.Entities
             }
             return sum;
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client.Name);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in Items)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price: $" + total().ToString("F2"));
+            return sb.ToString();
+        }
     }
 }
